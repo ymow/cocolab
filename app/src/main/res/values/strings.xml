@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cocolab</string>
+    <string name="nav_cafe">CAFE</string>
+    <string name="nav_bulbs">BULB</string>
+    <string name="nav_me">ME</string>
+
+
+    <string name="text_home">Home Fragment</string>
+    <string name="text_notifications">Notifications Fragment</string>
+    <string name="text_search">Search Fragment</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_notifications">Notifications</string>
+
+</resources>
